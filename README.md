@@ -1,12 +1,22 @@
-### 👋 Hi, I am Shubham Jain
+<h1 align="left">Hi 👋, I'm Shubham Jain</h1>
+<h3 align="left">Data scientist and ML enthusiast with accounting insight</h3>
 
-Data science and machine learning enthusiast, sharing my journey and learning <br/>
-- 🌱 Currently learning about using machine learning models to solve real-world problems and participating in Kaggle competitions.
-- 📫 How to reach me: jain.shubh600@gmail.com
-- ⚡ Fun fact: I have a background in business and accounting, and taught myself to build ML models.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjain600&label=Profile%20views&color=0e75b6&style=flat" alt="sjain600" /> </p>
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjain600&show_icons=true&theme=merko)
-<!---
-sjain600/sjain600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
+- 🌱 I’m currently learning **IBM Data Science Professional Certificate**
+
+- 📫 How to reach me **jain.shubh600@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubham-jain-029926140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-jain-029926140/" height="30" width="40" /></a>
+<a href="https://kaggle.com/sjain600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sjain600" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjain600&show_icons=true&locale=en&layout=compact" alt="sjain600" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjain600&show_icons=true&locale=en" alt="sjain600" /></p>
+
