@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjain600&label=Profile%20views&color=0e75b6&style=flat" alt="sjain600" /> </p>
 
-- 🌱 I’m currently learning **IBM Data Science Professional Certificate**
+- 🌱 I am currently enrolled in **IBM Data Science Professional Certificate** and **Welcome to Game Theory from UTokyo**
 
 - 📫 How to reach me **jain.shubh600@gmail.com**
 
