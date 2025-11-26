@@ -3,7 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:7ee8d2,100:9fb3ff&text=Shubham%60Jain&fontColor=ffffff&fontAlignY=42&fontSize=55&animation=fadeIn" />
 
-### <img src="https://github.com/sjain600.png" width="28" height="28" style="border-radius:50%;">  
 **Data Scientist • ML Enthusiast • Accounting Insight Meets Machine Learning**
 
 <br/>
@@ -30,7 +29,7 @@
 </a>
 
 <a href="https://kaggle.com/sjain600" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="50"/>
 </a>
 
 </div>
@@ -41,7 +40,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql,git,github" height="50" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql" height="50" />
 <img src="https://skillicons.dev/icons?i=pandas" height="50" />
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" />
 
@@ -52,8 +51,6 @@
 ## 📈 GitHub Stats 
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjain600&layout=compact&theme=calm&hide_border=true&bg_color=0d1117&title_color=7ee8d2&text_color=cdd9e5" height="170"/>
 
 <br/>
 
