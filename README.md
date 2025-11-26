@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjain600&label=Profile%20views&color=blueviolet&style=flat" alt="sjain600" /> </p>
 
+- :feelsgood: I am participating in the **Kaggle Playground Competition**.
+
 - 🌱 I am currently enrolled in **IBM Data Science Professional Certificate** and **Welcome to Game Theory from UTokyo**
 
 - 📫 How to reach me **jain.shubh600@gmail.com**
