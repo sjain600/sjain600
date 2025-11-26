@@ -18,7 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjain600&show_icons=true&theme=calm&locale=en&layout=compact" alt="sjain600" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjain600&show_icons=true&theme=calm&locale=en" alt="sjain600" /></p>
-
 [![Shubham Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjain600&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
