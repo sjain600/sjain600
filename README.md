@@ -1,24 +1,94 @@
-<h1 align="left">Hi 👋, I'm Shubham Jain</h1>
-<h3 align="left">Data scientist and ML enthusiast with accounting insight</h3>
+<!-- Futuristic Soft-Gradient Profile Header -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjain600&label=Profile%20views&color=blueviolet&style=flat" alt="sjain600" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:7ee8d2,100:9fb3ff&text=Shubham%60Jain&fontColor=ffffff&fontAlignY=42&fontSize=55&animation=fadeIn" />
 
-- :feelsgood: I am participating in the **Kaggle Playground Competition**.
+### <img src="https://github.com/sjain600.png" width="28" height="28" style="border-radius:50%;">  
+**Data Scientist • ML Enthusiast • Accounting Insight Meets Machine Learning**
 
-- 🌱 I am currently enrolled in **IBM Data Science Professional Certificate** and **Welcome to Game Theory from UTokyo**
+<br/>
 
-- 📫 How to reach me **jain.shubh600@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=sjain600&label=Profile%20Views&color=7ee8d2&style=flat-square" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-jain-029926140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-jain-029926140/" height="30" width="40" /></a>
-<a href="https://kaggle.com/sjain600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sjain600" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjain600&show_icons=true&theme=calm&locale=en&layout=compact" alt="sjain600" /></p>
+## 🌌 About Me
+- 📊 Currently competing in **Kaggle Playground** to sharpen ML experimentation.  
+- 🎓 Enrolled in **IBM Data Science Professional Certificate** & **Game Theory (UTokyo)**.  
+- 📧 Reach me at **jain.shubh600@gmail.com**
 
-[![Shubham Jain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjain600&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+## 🔗 Connect with Me
+
+<div align="left">
+
+<a href="https://linkedin.com/in/shubham-jain-029926140/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://kaggle.com/sjain600" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="45"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 Skills & Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql,git,github" height="50" />
+<img src="https://skillicons.dev/icons?i=pandas" height="50" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" />
+
+</div>
+
+---
+
+## 📈 GitHub Stats 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjain600&layout=compact&theme=calm&hide_border=true&bg_color=0d1117&title_color=7ee8d2&text_color=cdd9e5" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sjain600&theme=react-dark&bg_color=0d1117&line=7ee8d2&point=9fb3ff&color=cdd9e5&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌟 Featured Interests
+
+### 🔭 Machine Learning  
+Softmax intuition • Gradient boosting tricks • Model interpretability • Evaluation metrics
+
+### 💹 Finance + ML  
+Forecasting • anomaly detection • Monte Carlo intuition • probability in decision-making  
+
+### 💡 What I’m Building  
+End-to-end ML projects • clean code pipelines • well-documented Jupyter workflows
+
+---
+
+## 🧊 Current Focus
+
+> Mixing **ML engineering discipline** with **business fluency**.
+
+Building:
+- feature-rich Kaggle pipelines  
+- clean model dashboards  
+- visually pleasing explainability reports  
+
+---
+
+<div align="center">
+
+### ✨ *Thanks for visiting — always exploring, always improving.*
+
+</div>
