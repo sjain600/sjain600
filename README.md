@@ -15,7 +15,7 @@
 
 ## 🌌 About Me
 - 📊 Currently competing in **Kaggle Playground** to sharpen ML experimentation.  
-- 🎓 Enrolled in **IBM Data Science Professional Certificate** & **Game Theory (UTokyo)**.  
+- 🎓 Completed **IBM Data Science Professional Certificate** & **Game Theory (UTokyo)**.  
 - 📧 Reach me at **jain.shubh600@gmail.com**
 
 ---
@@ -38,12 +38,8 @@
 
 ## 🧠 Skills & Tools
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql" height="50" />
-<img src="https://skillicons.dev/icons?i=pandas" height="50" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" />
-
+<div align="left" style="display: flex; align-items: center; gap: 0;">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,sklearn,pandas,cuda,plotly,pkl,scipy,seaborn,matplotlib,streamlit,vscode,html,css,sqlite,chatgpt,claude,deepseek&theme=light&perline=5" />
 </div>
 
 ---
