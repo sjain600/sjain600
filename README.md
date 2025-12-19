@@ -58,31 +58,6 @@
 
 </div>
 
----
-
-## 🌟 Featured Interests
-
-### 🔭 Machine Learning  
-Softmax intuition • Gradient boosting tricks • Model interpretability • Evaluation metrics
-
-### 💹 Finance + ML  
-Forecasting • anomaly detection • Monte Carlo intuition • probability in decision-making  
-
-### 💡 What I’m Building  
-End-to-end ML projects • clean code pipelines • well-documented Jupyter workflows
-
----
-
-## 🧊 Current Focus
-
-> Mixing **ML engineering discipline** with **business fluency**.
-
-Building:
-- feature-rich Kaggle pipelines  
-- clean model dashboards  
-- visually pleasing explainability reports  
-
----
 
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
