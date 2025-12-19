@@ -84,6 +84,17 @@ Building:
 
 ---
 
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+
+<p align="center">
+  <em>
+    “Stop waiting. Stop talking yourself out of it. Stop researching. 
+    Go do it.”
+  </em><br>
+  — <strong>James Clear</strong>
+</p>
+
+
 <div align="center">
 
 ### ✨ *Thanks for visiting — always exploring, always improving.*
