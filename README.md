@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:7ee8d2,100:9fb3ff&text=Shubham%60Jain&fontColor=ffffff&fontAlignY=42&fontSize=55&animation=fadeIn" />
 
-**Data Scientist • ML Enthusiast • Accounting Insight Meets Machine Learning**
+**Data Scientist • ML and AI Enthusiast**
 
 <br/>
 
