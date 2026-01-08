@@ -39,7 +39,7 @@
 ## 🧠 Skills & Tools
 
 <div align="left" style="display: flex; align-items: center; gap: 0;">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,sklearn,pandas,cuda,plotly,pkl,scipy,seaborn,matplotlib,streamlit,vscode,html,css,sqlite,chatgpt,claude,deepseek&theme=light&perline=5" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,sklearn,pandas,cuda,plotly,pkl,scipy,seaborn,matplotlib,streamlit,vscode,sqlite,chatgpt,claude,deepseek&theme=light&perline=5" />
 </div>
 
 ---
