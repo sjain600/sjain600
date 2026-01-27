@@ -14,25 +14,9 @@
 ---
 
 ## 🌌 About Me
-- 📊 Currently competing in **Kaggle Playground** to sharpen ML experimentation.  
-- 🎓 Completed **IBM Data Science Professional Certificate** & **Game Theory (UTokyo)**.  
+- Currently competing in **Kaggle Playground** to sharpen ML experimentation.  
+- Completed **IBM Data Science Professional Certificate** & **Game Theory (UTokyo)**.  
 - 📧 Reach me at **jain.shubh600@gmail.com**
-
----
-
-## 🔗 Connect with Me
-
-<div align="left">
-
-<a href="https://linkedin.com/in/shubham-jain-029926140/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://kaggle.com/sjain600" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="50"/>
-</a>
-
-</div>
 
 ---
 
