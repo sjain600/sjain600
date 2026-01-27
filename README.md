@@ -16,7 +16,7 @@
 ## 🌌 About Me
 - Currently competing in **Kaggle Playground** to sharpen ML experimentation.  
 - Completed **IBM Data Science Professional Certificate** & **Game Theory (UTokyo)**.  
-- 📧 Reach me at **jain.shubh600@gmail.com**
+- Reach me at **jain.shubh600@gmail.com**
 
 ---
 
